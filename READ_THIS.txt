@@ -1,2 +1,20 @@
-# guardar
 Guard your web and your PC from viruses, malwares, fake additional bloatware files with Guardar.
+
+HOW TO USE - FULL GUIDE
+
+1- Install the main Guardar source from the one and only page of Guardar - www.github.com/cerdocebolla/guardar
+2- Open the "guardarMain" file inside the file you just've downloaded.
+3- After that, choose one of the Application files inside the "guardarMain" file. (or open both applications for web protection + anti-virus)
+4- Run the applications without extracting the files.
+5- Ignore the "Windows protected your PC" warning if you're an Windows user.
+6- After running it, wait for 10 seconds and start using Guardar. 
+
+FIX FREQUENTLY-FACED ISSUES
+
+"Anti-Virus or/and Web protector doesn't work."
+Restart your PC and repeat the guide, it should work.
+
+"I don't get the virus or/and danger notifications."
+Disable other anti-viruses or check your notification setting. If both doesn't work, the software is blocking the sites silently; this issue will be fixed soon.
+
+guide written by cerdocebolla - www.github.com/cerdocebolla
