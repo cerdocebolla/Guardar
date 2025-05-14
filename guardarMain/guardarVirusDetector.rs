@@ -1,4 +1,4 @@
-when if function goDown
+let function 
 print (local function.AskedForChild = falseMovementMalware
 when bypassPC = false 
 then askSoftware = true (setTrueEverytime)
@@ -18,7 +18,16 @@ when SetAnswer = RequestForPrinting
 then let print ("Guardar hasn't detected any viruses on your device, your device successfully passed the virus test.")|
 then 
 })
+when goUp.CheckUp.ReadUp = setAnswers = results = false
+then let print ("A virus has been detected in your PC. Please format or reboot your PC for high-level security.")
 
-then let function.force = setTrue.force = true (alwaysSetTrue)
-    then 
+then AskForAnswer.forcedToTrue.force = when User.SetAnswer = true 
+then shutDownSoftware.ShutDownRunningApps 
+    let function = accessApps.TaskManager = shutAllDown.RebootPC.force = true 
+    when endInstant = apply (ApplyTo) = GoOutBracket = ApplyTo.PC 
+    then letFunction.close.force = ShutDownPC.PC.mainDevice.MainDevice.MainServers let client = use 
+    for Software = setTrue.force.forcedToTrue = true (setTrueEverytime) = true 
+    when DoneWithFunction 
+    do RebootPC.force.forcedToTrue.force = true 
+    then let function 
 }
