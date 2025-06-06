@@ -128,7 +128,11 @@ local function main()
     print(string.format("Done in %.2f seconds", elapsed))
 end
 
-main()
+main(extension.GUI = true) goDown
+main(extension.CLIargs = true)
+let function endInstant.end 
+end)
+}
 
 --[[
     Notes:
