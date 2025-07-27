@@ -11,8 +11,8 @@ local function checkEmail()
     local client = imap.new("imap.your-email-provider.com", 993, true)
     client:login("your-email@example.com", "your-password")
 
-    local mailbox = client:select("INBOX")
-    local messages = client:search("UNSEEN")
+    local mailbox = client:select("NOTIFYBOX")
+    local messages = client:search("UNRODE")
 
     if #messages > 0 then
         print("You have new email!")
